@@ -49,11 +49,11 @@
             <version>4.2.1</version>
             <scope>test</scope>
         </dependency>
-            <dependency>
-                <groupId>org.opentestfactory.util</groupId>
-                <artifactId>opentestfactory-java-param-library</artifactId>
-                <version>1.0.3.mr35-20220919.075617-2</version>
-            </dependency>
+         <dependency>
+            <groupId>org.opentestfactory.util</groupId>
+            <artifactId>opentestfactory-java-param-library</artifactId>
+            <version>1.0.3-20220921.102111-6</version>
+         </dependency>
     </dependencies>
     <build>
         <plugins>
